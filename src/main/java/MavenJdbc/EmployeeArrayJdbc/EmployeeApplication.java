@@ -15,6 +15,7 @@ public class EmployeeApplication {
 	private static Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) throws SQLException {
+		int i;
 
 		EmployeeApplication employeeApplication = new EmployeeApplication();
 		System.out.println("************trng.Employee System**********");
